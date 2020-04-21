@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600&display=swap');
+body{
+	margin: 0px;
+
+}
+
+.text-1{
+color:  #3498db;
+text-align: center;
+}
+.div1{
+
+height: 100%;
+width: 50%;
+border: 15px #bdc3c7 solid;
+margin: 0px auto;
+padding-left: 10px;
+}
+
+.font{
+	padding-right: 20px;
+	padding-left: 20px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 400px;
+}
+.brdr1{
+	border-left: 5px #bdc3c7 solid;
+	padding-left: 10px;
+
+}
